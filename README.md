@@ -1,14 +1,12 @@
 # retry-requests-python
 
-install:
+Installation:
 
-clone project
+	1. create venv
 
-create venv
+	2. active venv 
 
-active venv 
-
-pip install -r requirements.txt
+	3. pip install -r requirements.txt
 
 run:
 python app.py
